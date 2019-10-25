@@ -1,0 +1,13 @@
+E:\Project Test\SignalRBroadCasterDB\SignalRBroadCasterDB.ConsoleApp\bin\Debug\SignalRBroadCasterDB.ConsoleApp.exe.config
+E:\Project Test\SignalRBroadCasterDB\SignalRBroadCasterDB.ConsoleApp\bin\Debug\SignalRBroadCasterDB.ConsoleApp.exe
+E:\Project Test\SignalRBroadCasterDB\SignalRBroadCasterDB.ConsoleApp\bin\Debug\SignalRBroadCasterDB.ConsoleApp.pdb
+E:\Project Test\SignalRBroadCasterDB\SignalRBroadCasterDB.ConsoleApp\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\Project Test\SignalRBroadCasterDB\SignalRBroadCasterDB.ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+E:\Project Test\SignalRBroadCasterDB\SignalRBroadCasterDB.ConsoleApp\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+E:\Project Test\SignalRBroadCasterDB\SignalRBroadCasterDB.ConsoleApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\Project Test\SignalRBroadCasterDB\SignalRBroadCasterDB.ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+E:\Project Test\SignalRBroadCasterDB\SignalRBroadCasterDB.ConsoleApp\obj\Debug\SignalRBroadCasterDB.ConsoleApp.csprojAssemblyReference.cache
+E:\Project Test\SignalRBroadCasterDB\SignalRBroadCasterDB.ConsoleApp\obj\Debug\SignalRBroadCasterDB.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Project Test\SignalRBroadCasterDB\SignalRBroadCasterDB.ConsoleApp\obj\Debug\SignalRBroadCasterDB.ConsoleApp.csproj.CopyComplete
+E:\Project Test\SignalRBroadCasterDB\SignalRBroadCasterDB.ConsoleApp\obj\Debug\SignalRBroadCasterDB.ConsoleApp.exe
+E:\Project Test\SignalRBroadCasterDB\SignalRBroadCasterDB.ConsoleApp\obj\Debug\SignalRBroadCasterDB.ConsoleApp.pdb
